@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author refia
+ *
+ */
+module ElmSchool {
+}
